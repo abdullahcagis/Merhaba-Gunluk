@@ -1,0 +1,11 @@
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\bin\Debug\MerhabaGunluk.exe.config
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\bin\Debug\MerhabaGunluk.exe
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\bin\Debug\MerhabaGunluk.pdb
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.Form1.resources
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.Properties.Resources.resources
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.exe
+C:\Users\lenovo\source\repos\MerhabaGunluk\MerhabaGunluk\obj\Debug\MerhabaGunluk.pdb
